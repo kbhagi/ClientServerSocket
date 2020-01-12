@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\bin\Debug\ClientServerSocket.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\bin\Debug\ClientServerSocket.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\bin\Debug\ClientServerSocket.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\obj\Debug\ClientServerSocket.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\obj\Debug\ClientServerSocket.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\obj\Debug\ClientServerSocket.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\obj\Debug\ClientServerSocket.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\obj\Debug\ClientServerSocket.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ClientServerSocket\ClientServerSocket\obj\Debug\ClientServerSocket.pdb
